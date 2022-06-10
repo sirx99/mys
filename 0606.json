@@ -90,7 +90,7 @@
             "searchable":"1",
             "quickSearch":"1",
             "filterable":"0",
-            "ext":"https://kvywingmin.github.io/kvymin/XBiubiu/ysgc.json"
+            "ext":"https://kvymin.github.io/CatVod/XBiubiu/ysgc.json"
         },
         {
             "key":"csp_biubiu_555",
@@ -100,7 +100,7 @@
             "searchable":"1",
             "quickSearch":"1",
             "filterable":"0",
-            "ext":"https://kvywingmin.github.io/kvymin/XBiubiu/555.json"
+            "ext":"https://kvymin.github.io/CatVod/XBiubiu/555.json"
         },
         {
             "key":"csp_biubiu_lezhu",
@@ -110,7 +110,7 @@
             "searchable":"1",
             "quickSearch":"1",
             "filterable":"0",
-            "ext":"https://kvywingmin.github.io/kvymin/XBiubiu/lezhutv.json"
+            "ext":"https://kvymin.github.io/CatVod/XBiubiu/lezhutv.json"
         },
         {
             "key":"789看片",
@@ -120,7 +120,7 @@
             "searchable":"1",
             "quickSearch":"1",
             "filterable":"1",
-            "ext":"https://kvywingmin.github.io/kvymin/sub/xpath/789ba.json"
+            "ext":"https://kvymin.github.io/CatVod/sub/xpath/789ba.json"
         },
         {
             "key":"Gimy",
@@ -130,7 +130,7 @@
             "searchable":"1",
             "quickSearch":"1",
             "filterable":"1",
-            "ext":"https://kvywingmin.github.io/kvymin/sub/xpath/Gimy.json"
+            "ext":"https://kvymin.github.io/CatVod/sub/xpath/Gimy.json"
         },
         {
             "key":"Age动漫",
@@ -140,7 +140,7 @@
             "searchable":"1",
             "quickSearch":"1",
             "filterable":"1",
-            "ext":"https://kvywingmin.github.io/kvymin/sub/xpath/agefans.json"
+            "ext":"https://kvymin.github.io/CatVod/sub/xpath/agefans.json"
         },
         {
             "key":"300看世界",
@@ -189,7 +189,7 @@
                 {
                     "name":"redirect",
                     "urls":[
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rdnl3aW5nbWluLmdpdGh1Yi5pby9rdnltaW4vbGl2ZS9NdHYudHh0"
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rdnltaW4uZ2l0aHViLmlvL0NhdFZvZC9saXZlL010di50eHQ="
                     ]
                 }
             ]
@@ -821,5 +821,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "spider":"https://kvywingmin.github.io/kvymin/custom_spider_0608.jar"
+    "spider":"https://kvymin.github.io/CatVod/custom_spider_0608.jar"
 }
