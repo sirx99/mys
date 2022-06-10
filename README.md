@@ -1,4 +1,4 @@
-https://kvywingmin.github.io/kvymin/0606.json
+https://kvymin.github.io/CatVod/0606.json
 
 
 导入存储库
