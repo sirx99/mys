@@ -1,15 +1,15 @@
 {
   "wallpaper": "",
-  "spider": "https://kvymin.github.io/CatVod/jar/XBiubiuLA3.jar;md5;389c60fa426852cd2b35baee5a302285",
+  "spider": "https://kvymin.github.io/CatVod/jar/XBiubiuLA3.jar",
+ 
   "lives": [
     {
       "group": "redirect",
       "channels": [
         {
-          "name": "live",
+          "name": "redirect",
           "urls": [
-            // base64(clan://maomao/tv/live.txt) = Y2xhbjovL21hb21hby90di9saXZlLnR4dA==
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rdnltaW4uZ2l0aHViLmlvL0NhdFZvZC9saXZlL2xpdmUudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rdnltaW4uZ2l0aHViLmlvL0NhdFZvZC9saXZlL010di50eHQ="
           ]
         }
       ]
