@@ -15,34 +15,161 @@
       ]
     }
   ],
-  "sites": [
+  "sites": [  
     {
-      "key": "csp_xpath_独播库",
-      "name": "独播库(XPF)(播放器要改成系统播放器)",
+            "key": "csp_SP360",
+            "name": "🎾360(SP)",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Kuaikan",
+            "name": "🎈快看(SP)",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_LiteApple",
+            "name": "🍎小苹果(SP)",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "👒七七(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Cokemv",
+            "name": "🐼Cokemv(SP)",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Buka",
+            "name": "🐼真不卡(SP)",
+            "type": 3,
+            "api": "csp_Buka",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Auete",
+            "name": "🐼Auete(SP)",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "🌀低端影视(SP)",
+            "api": "csp_DiDuan",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_CZSPP",
+            "name": "🚬厂长(SP)",
+            "type": 3,
+            "api": "csp_CZSPP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Zxzj",
+            "name": "🐼在线之家(SP)",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Nbys",
+            "name": "🐼泥巴(SP需翻墙)",
+            "type": 3,
+            "api": "csp_Nbys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_DY1990",
+            "name": "🐼1990电影(SP)",
+            "type": 3,
+            "api": "csp_DY1990",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_GitCafe",
+            "name": "🦊小纸条",
+            "type": 3,
+            "api": "csp_GitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "csp_AliPanSou",
+            "name": "🐱喵狸盘搜(只支持搜索)",
+            "type": 3,
+            "api": "csp_AliPanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "push_agent",
+            "name": "推送（阿里）",
+            "type": 3,
+            "api": "csp_Ali",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+    {
+      "key": "csp_xpath_libv",
+      "name": "Libvio(XPF)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/duboku.json"
+      "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/libv.json"
     },
     {
-      "key": "csp_Kuaikan",
-      "name": "🎈快看(SP)",
+      "key": "csp_xpath_cokemv",
+      "name": "Cokemv(XPF)",
       "type": 3,
-      "api": "csp_Kuaikan",
+      "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_LiteApple",
-      "name": "🍎小苹果(SP)",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/cokemv.json"
     },
     {
       "key": "csp_xpath_huya",
@@ -93,6 +220,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://kvymin.github.io/CatVodTVSpider/xbiubiu/喜鹊视频.json"
+    }, 
+    {
+      "key": "csp_xpath_独播库",
+      "name": "独播库(XPF)(播放器要改成系统播放器)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/duboku.json"
     },
     {
       "key": "csp_biubiu_瓜皮TV",
@@ -163,26 +300,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/hancheng.json"
-    },
-    {
-      "key": "csp_xpath_libv",
-      "name": "Libvio(XPF)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/libv.json"
-    },
-    {
-      "key": "csp_xpath_cokemv",
-      "name": "Cokemv(XPF)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/cokemv.json"
     },
     {
       "key": "csp_xpath_ddg",
