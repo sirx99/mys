@@ -158,7 +158,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=tvfix&type=list"
+            "proxy://do=tvfix&type=aHR0cHM6Ly9rdnltaW4uZ2l0aHViLmlvL0NhdFZvZC9saXZlL2xpdmUudHh0"
           ]
         }
       ]
@@ -170,10 +170,22 @@
       "type": 3,
       "url": "Demo"
     },
+    { "name": "Json并发", "type": 2, "url": "Parallel" },
+    { "name": "Json轮询", "type": 2, "url": "Sequence" },
+    {
+      "name": "线路m9",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+    },
+    {
+      "name": "线路NX",
+      "type": 1,
+      "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
+    },
         {
             "name": "Pro",
             "type": 1,
-            "url": "http://chaloli.cn/home/api?type=aHR0cHM6Ly9rdnltaW4uZ2l0aHViLmlvL0NhdFZvZC9saXZlL2xpdmUudHh0",
+            "url": "http://chaloli.cn/home/api?type=ys&uid=778974&key=benopqtxyzGIJMXZ18&url=",
             "ext": {
                 "flag": [
                     "youku",
