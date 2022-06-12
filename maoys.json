@@ -156,25 +156,15 @@
       "filterable": 1,
       "ext": "https://app.zteys.com/api.php/v1.vod"
     },
-        {
-            "key": "独播社",
-            "name": "独播〔XP〕",
-            "type": 3,
-            "api": "csp_AppYsV2",
+    {
+     "key": "爱酷社",
+     "name": "爱酷〔SP〕",
+     "type": 3,
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-            "ext": "http://35ys.cc/api.php/v1.vod"
-        },
-        {
-            "key": "爱酷社",
-            "name": "爱酷〔SP〕",
-            "type": 3,
-            "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-            "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
+      "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
         },
     {
       "key": "美剧虫",
