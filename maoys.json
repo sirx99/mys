@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🎾360(SP)",
+      "name": "360(SP)",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -11,7 +11,7 @@
     },
     {
       "key": "csp_Kunyu77",
-      "name": "👒七七(SP)",
+      "name": "七七(SP)",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -20,7 +20,7 @@
     },
     {
       "key": "csp_Kuaikan",
-      "name": "🎈快看(SP)",
+      "name": "快看(SP)",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -29,7 +29,7 @@
     },
     {
       "key": "csp_LiteApple",
-      "name": "🍎小苹果(SP)",
+      "name": "小苹果(SP)",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "🌀低端影视(SP)",
+      "name": "低端影视(SP)",
       "type": 3,
       "api": "csp_DiDuan",
       "searchable": 1,
@@ -47,7 +47,7 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "🐼Cokemv(SP)",
+      "name": "Cokemv(SP)",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
@@ -56,7 +56,7 @@
     },
     {
       "key": "csp_Buka",
-      "name": "🐼真不卡(SP)",
+      "name": "真不卡(SP)",
       "type": 3,
       "api": "csp_Buka",
       "searchable": 1,
@@ -65,7 +65,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "🐼Auete(SP)",
+      "name": "Auete(SP)",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -74,7 +74,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "🚬厂长(SP)",
+      "name": "厂长(SP)",
       "type": 3,
       "api": "csp_CZSPP",
       "searchable": 1,
@@ -83,7 +83,7 @@
     },
     {
       "key": "csp_Zxzj",
-      "name": "🐼在线之家(SP)",
+      "name": "在线之家(SP)",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -92,7 +92,7 @@
     },
     {
       "key": "csp_DY1990",
-      "name": "🐼1990电影(SP)",
+      "name": "1990电影(SP)",
       "type": 3,
       "api": "csp_DY1990",
       "searchable": 1,
@@ -101,30 +101,12 @@
     },
     {
       "key": "csp_GitCafe",
-      "name": "🦊小纸条",
+      "name": "小纸条",
       "type": 3,
       "api": "csp_GitCafe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Nbys",
-      "name": "🐼泥巴(SP需翻墙)",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_AliPanSou",
-      "name": "🐱喵狸盘搜(只支持搜索)",
-      "type": 3,
-      "api": "csp_AliPanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "9E03",
@@ -157,7 +139,7 @@
       "ext": "https://app.zteys.com/api.php/v1.vod"
     },
     {
-     "key": "爱酷社",
+     "key": "爱酷",
      "name": "爱酷〔SP〕",
      "type": 3,
       "api": "csp_AppYsV2",
@@ -226,7 +208,25 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/sub/xpath/agefans.json"
-    },    
+    }, 
+    {
+      "key": "csp_Nbys",
+      "name": "泥巴(SP需翻墙)",
+      "type": 3,
+      "api": "csp_Nbys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_AliPanSou",
+      "name": "喵狸盘搜(只支持搜索)",
+      "type": 3,
+      "api": "csp_AliPanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "push_agent",
       "name": "推送（阿里）",
