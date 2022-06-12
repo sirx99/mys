@@ -934,6 +934,67 @@
         ]
       }
     },
+        {
+            "name": "猫群专用解析y4",
+            "type": 1,
+            "url": "http://chaloli.cn/home/api?type=ys&uid=778974&key=benopqtxyzGIJMXZ18&url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "iqiyi",
+                    "qiyi",
+                    "letv",
+                    "sohu",
+                    "letv",
+                    "tudou",
+                    "pptv",
+                    "mgtv",
+                    "wasu",
+                    "bilibili",
+                    "leduo",
+                    "fq3",
+                    "fq4",
+                    "xueren",
+                    "duoduo",
+                    "duoduozy",
+                    "miaoparty",
+                    "miaoparty2",
+                    "miaoparty3",
+                    "renrenmi",
+                    "优酷",
+                    "芒果",
+                    "腾讯",
+                    "爱奇艺",
+                    "奇艺",
+                    "ltnb",
+                    "rx",
+                    "CL4K",
+                    "xfyun",
+                    "wuduzy"
+                ]
+            }
+        },
+        {
+            "name": "龙虾",
+            "type": 1,
+            "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "mgtv",
+                    "youku",
+                    "letv",
+                    "sohu",
+                    "xigua",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "Dart/2.14(dart:io)"
+                }
+            }
+        },
     {
       "name": "8",
       "type": 1,
