@@ -101,7 +101,7 @@
     },
     {
       "key": "csp_GitCafe",
-      "name": "小纸条",
+      "name": "小纸条(SP)",
       "type": 3,
       "api": "csp_GitCafe",
       "searchable": 1,
@@ -110,7 +110,7 @@
     },
     {
       "key": "9E03",
-      "name": "9E03",
+      "name": "9E03(v2)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -140,7 +140,7 @@
     },
     {
      "key": "爱酷",
-     "name": "爱酷〔SP〕",
+     "name": "爱酷〔(v2)〕",
      "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
