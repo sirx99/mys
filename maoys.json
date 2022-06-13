@@ -203,7 +203,7 @@
       "key": "libvio",
       "name": "libvio(XP)",
       "type": 3,
-      "api": "csp_XPathMac",
+      "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
