@@ -178,16 +178,6 @@
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/ysgc.json"
     },
-{
-"key":"csp_biubiu_tegouys",
-"name":"特狗影视(XB)",
-"type":3,
-"api":"csp_XBiubiu",
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"ext":"https://kvymin.github.io/CatVod/XBiubiu/tegouys.json"
-},
     //{"key":"csp_biubiu_555","name":"555影院(XB)","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"https://kvymin.github.io/CatVod/XBiubiu/555.json"},
     {
       "key": "csp_biubiu_lezhu",
