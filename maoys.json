@@ -186,7 +186,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":0,
-"ext":"clan://https://kvymin.github.io/CatVod/XBiubiu/teg.json"
+"ext":"https://kvymin.github.io/CatVod/XBiubiu/teg.json"
 },
     //{"key":"csp_biubiu_555","name":"555影院(XB)","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"https://kvymin.github.io/CatVod/XBiubiu/555.json"},
     {
