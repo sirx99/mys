@@ -144,14 +144,14 @@
             "ext": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
         },
         {
-            "key": "csp_appysv2_独播影视",
-            "name": "独播影视〔Z〕",
+            "key": "csp_appysv2_酷猫电影",
+            "name": "酷猫电影〔Z〕",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://35ys.cc/api.php/v1.vod"
+            "ext": "https://www.pgcms10.com/api.php"
         },
         {
             "key": "csp_appysv2_爱酷影视",
