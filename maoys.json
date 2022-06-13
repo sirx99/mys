@@ -140,7 +140,7 @@
     },
     {
      "key": "爱酷",
-     "name": "爱酷〔(v2)〕",
+     "name": "爱酷(v2)",
      "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -178,6 +178,16 @@
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/ysgc.json"
     },
+{
+"key":"csp_biubiu_特狗影视",
+"name":"特狗影视(XB)",
+"type":3,
+"api":"csp_XBiubiu",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"clan://https://kvymin.github.io/CatVod/XBiubiu/teg.json"
+},
     //{"key":"csp_biubiu_555","name":"555影院(XB)","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"https://kvymin.github.io/CatVod/XBiubiu/555.json"},
     {
       "key": "csp_biubiu_lezhu",
@@ -189,6 +199,7 @@
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/lezhutv.json"
     },
+
     {
       "key": "789看片",
       "name": "789看片(XP)",
@@ -209,6 +220,7 @@
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/sub/xpath/Gimy.json"
     },    
+
     {
       "key": "libvio",
       "name": "libvio(XP)",
