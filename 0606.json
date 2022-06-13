@@ -96,7 +96,7 @@
             "key":"csp_biubiu_555",
             "name":"555影院(XB)",
             "type":"3",
-            "api":"csp_XPathRec",
+            "api":"csp_XPathMacFilter",
             "searchable":"1",
             "quickSearch":"1",
             "filterable":"0",
