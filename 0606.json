@@ -103,13 +103,13 @@
 "ext":"https://kvymin.github.io/CatVod/xpath/dadagui.json"
 },
 {
-"key":"555",
-"name":"555〔XP〕",
+"key":"csp_biubiu_555",
+"name":"555〔XB〕",
 "type":3,
-"api":"csp_XPathFilter",
+"api":"csp_XBiubiu",
 "searchable":1,
 "quickSearch":1,
-"filterable":1,
+"filterable":0,
 "ext":"https://kvymin.github.io/CatVod/XBiubiu/555.json"
 },
         {
