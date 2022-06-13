@@ -94,13 +94,24 @@
         },
         {
             "key": "csp_xpath_达龟影视",
-            "name": "达龟〔XP〕",
+            "name": "达达龟〔XP〕",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext":"https://kvymin.github.io/CatVod/xpath/dadagui.json"
+        },
+        
+        {
+            "key": "csp_xpath_555",
+            "name": "555〔XP〕",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext":"https://kvymin.github.io/CatVod/XBiubiu/555.json"
         },
         {
             "key":"csp_biubiu_lezhu",
