@@ -295,9 +295,22 @@
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
     },
     {
-      "name": "线路NX",
+      "name": "bilibili",
       "type": 1,
-      "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
+      "url": "https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=",
+      "ext": { "flag": ["bilibili"] }
+    },
+    {
+      "name": "leduo",
+      "type": 1,
+      "url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=",
+      "ext": { "flag": ["leduo"] }
+    },
+    {
+      "name": "duoduozy2",
+      "type": 1,
+      "url": "https://a.dxzj88.com/jxjx/dd.php?url=",
+      "ext": { "flag": ["duoduozy"] }
     },
     {
       "name": "293",
@@ -335,26 +348,6 @@
           "爱奇艺",
           "qq",
           "奇艺"
-        ]
-      }
-    },
-    {
-      "name": "bilibili",
-      "type": 1,
-      "url": "https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=",
-      "ext": {
-        "flag": [
-          "bilibili"
-        ]
-      }
-    },
-    {
-      "name": "leduo",
-      "type": 1,
-      "url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=",
-      "ext": {
-        "flag": [
-          "leduo"
         ]
       }
     },
