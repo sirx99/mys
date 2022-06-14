@@ -50,16 +50,7 @@
       "filterable": 0,
       "ext": "أويتي"
     },
-    {
-      "key": "csp_DiDuan",
-      "name": "低端影视〔SP〕",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "السينما والتلفزيون الرديئة"
-    },
+    //{"key": "csp_DiDuan","name": "低端影视〔SP〕","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "السينما والتلفزيون الرديئة"},
     //{"key": "csp_Kumao","name": "🐱 酷猫","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "قط رائع"},
     //{"key": "csp_AliPanSou","name": "喵狸盘搜〔SP〕","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "مواء الراكون"},
     //{"key": "csp_GitCafe","name": "小纸条〔SP〕","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "ملاحظة"},
