@@ -55,15 +55,7 @@
             "quickSearch": 1,
             "filterable": 0
         },
-        {
-            "key": "csp_饭团",
-            "name": "饭团〔SP〕",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        //{"key": "csp_饭团","name": "饭团〔SP〕","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1},
         {
             "key": "csp_纸条",
             "name": "纸条〔SP〕",
