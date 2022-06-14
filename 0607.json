@@ -79,7 +79,7 @@
             "searchable":"1",
             "quickSearch":"1",
             "filterable":"1",
-            "ext":"https://iapp.nfuxs.club/nfuxs.php/v1.vod"
+            "ext":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"
         },
         //{"key": "csp_Auete","name": "Auete(SP)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": ""},
         {
