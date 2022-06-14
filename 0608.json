@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_CZSPP",
-      "name": "🚬 厂长资源",
+      "name": "厂长资源〔SP〕",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "csp_NaNa",
-      "name": "👒 七七",
+      "name": "七七〔SP〕",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -20,19 +20,10 @@
       "filterable": 0,
       "ext": "سبعة وسبعة"
     },
-    {
-      "key": "csp_Kumao",
-      "name": "🐱 酷猫",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "قط رائع"
-    },
+    //{"key": "csp_Kumao","name": "🐱 酷猫","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "قط رائع"},
     {
       "key": "csp_Buka",
-      "name": "🧼 真不卡",
+      "name": "真不卡〔SP〕",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -42,7 +33,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "🧿 Auete",
+      "name": "Auete〔SP〕",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -52,7 +43,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "🌀 低端影视",
+      "name": "低端影视〔SP〕",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -62,7 +53,7 @@
     },
     {
       "key": "csp_360",
-      "name": "🎾 360",
+      "name": "360〔SP〕",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -72,7 +63,7 @@
     },
     {
       "key": "csp_AliPanSou",
-      "name": "🐱 喵狸盘搜",
+      "name": "喵狸盘搜〔SP〕",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -82,7 +73,7 @@
     },
     {
       "key": "csp_GitCafe",
-      "name": "🦊 小纸条",
+      "name": "小纸条〔SP〕",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -92,7 +83,7 @@
     },
     {
       "key": "csp_Concert",
-      "name": "🎤 演唱会",
+      "name": "演唱会〔SP〕",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
@@ -102,7 +93,7 @@
     },
     {
       "key": "csp_Animal",
-      "name": "🐘 动物世界",
+      "name": "动物世界〔SP〕",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 0,
@@ -112,7 +103,7 @@
     },
     {
       "key": "csp_Opera",
-      "name": "🏮戏曲",
+      "name": "戏曲〔SP〕",
       "type": 3,
       "api": "csp_ColaCat",
       "searchable": 1,
