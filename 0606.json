@@ -235,6 +235,7 @@
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
     },
+
     {
       "name": "线路NX",
       "type": 1,
@@ -246,6 +247,7 @@
       "url": "https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=",
       "ext": { "flag": ["bilibili"] }
     },
+
     {
       "name": "leduo",
       "type": 1,
@@ -296,6 +298,12 @@
       "type": 1,
       "url": "https://jx.mczdyw.com/xg.php?url=",
       "ext": { "flag": ["mgtv", "芒果"] }
+    },
+    {
+      "name": "xfyun云",
+      "type": 1,
+      "url": "https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=",
+      "ext": { "flag": ["xfyun"] }
     },
     {
       "name": "3",
