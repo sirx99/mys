@@ -3,179 +3,179 @@
     {
       "key": "360",
       "name": "360",
-      "type": 0,
+      "type": 3,
       "api": "csp_SP360",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "LiteApple",
       "name": "小苹果",
-      "type": 0,
+      "type": 3,
       "api": "csp_LiteApple",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "七七",
       "name": "七七",
-      "type": 0,
+      "type": 3,
       "api": "csp_Kunyu77",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "9E03",
       "name": "9E03",
-      "type": 0,
+      "type": 3,
       "api": "csp_AppYsV2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
     },
     {
       "key": "奈落影院",
       "name": "奈落影院",
-      "type": 0,
+      "type": 3,
       "api": "csp_Newfii",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "在线之家",
       "name": "在线之家",
-      "type": 0,
+      "type": 3,
       "api": "csp_Zxzj",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "小宝影院",
       "name": "小宝影院",
-      "type": 0,
+      "type": 3,
       "api": "csp_Xiaoh",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Auete",
       "name": "Auete",
-      "type": 0,
+      "type": 3,
       "api": "csp_Auete",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Cokemv",
       "name": "Cokemv",
-      "type": 0,
+      "type": 3,
       "api": "csp_Cokemv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_biubiu_ysgc",
       "name": "影视工厂(XB)",
-      "type": 0,
+      "type": 3,
       "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/ysgc.json"
     },
     {
       "key": "csp_biubiu_555",
       "name": "555影院(XB)",
-      "type": 0,
+      "type": 3,
       "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/555.json"
     },
     {
       "key": "csp_biubiu_lezhu",
       "name": "乐猪(XB)",
-      "type": 0,
+      "type": 3,
       "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/lezhutv.json"
     },
     {
       "key": "789看片",
       "name": "789看片(XP)",
-      "type": 0,
+      "type": 3,
       "api": "csp_XPathRec",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/sub/xpath/789ba.json"
     },
     {
       "key": "Gimy",
       "name": "Gimy(XP)",
-      "type": 0,
+      "type": 3,
       "api": "csp_XPathMacFilter",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/sub/xpath/Gimy.json"
     },
     {
       "key": "Age动漫",
       "name": "Age动漫(XP)",
-      "type": 0,
+      "type": 3,
       "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/sub/xpath/agefans.json"
     },
     {
       "key": "300看世界",
       "name": "300看世界(v2)",
-      "type": 0,
+      "type": 3,
       "api": "csp_AppYsV2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
     },
     {
       "key": "钟特影视",
       "name": "钟特影视(v2)",
-      "type": 0,
+      "type": 3,
       "api": "csp_AppYsV2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://app.zteys.com/api.php/v1.vod"
     },
     {
       "key": "美剧虫",
       "name": "美剧虫(v1)",
-      "type": 0,
+      "type": 3,
       "api": "csp_AppYs",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://meijuchong.com/api.php/v1.vod"
     },
     {
       "key": "push_agent",
       "name": "推送",
-      "type": 0,
+      "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
       "quickSearch": 0,
@@ -302,7 +302,7 @@
     },
     {
       "name": "03",
-      "type": 0,
+      "type": 3,
       "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
       "ext": {
         "flag": [
@@ -322,7 +322,7 @@
     },
     {
       "name": "04",
-      "type": 0,
+      "type": 3,
       "url": "http://api.vip123kan.vip/?url=",
       "ext": {
         "flag": [
