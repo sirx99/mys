@@ -20,6 +20,36 @@
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/ysgc.json"
     },
+    {
+      "key": "csp_xpath_cokemv",
+      "name": "Cokemv(XPF)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/cokemv.json"
+    },
+    {
+      "key": "csp_xpath_libv",
+      "name": "libvio(XPF)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://kvymin.github.io/CatVod/sub/xpath/libvio.json"
+    },
+    {
+      "key": "csp_xpath_Auete",
+      "name": "Auete(XPF)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/Auete.json"
+    },
    {
     "key": "csp_biubiu_特狗影视",
     "name": "特狗影视(XB)",
@@ -59,26 +89,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/sub/xpath/Gimy.json"
-    }, 
-    {
-      "key": "csp_xpath_libv",
-      "name": "libvio(XPF)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/sub/xpath/libvio.json"
-    },    
-    {
-      "key": "csp_xpath_cokemv",
-      "name": "Cokemv(XPF)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/cokemv.json"
     },
     {
       "key": "Age动漫",
