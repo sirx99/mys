@@ -587,12 +587,6 @@
       "ext": { "flag": ["ltnb"] }
     },
     {
-      "name": "xfyun云",
-      "type": 1,
-      "url": "https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=",
-      "ext": { "flag": ["xfyun"] }
-    },
-    {
       "name": "Wuduzy",
       "type": 1,
       "url": "https://aa.xkys.tv/json.php?url=",
