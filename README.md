@@ -7,6 +7,12 @@ https://kvymin.github.io/CatVod/0607.json
 
 https://kvymin.github.io/CatVod/maoys.json
 
+
+# 2022.06.15建新XP+XB接口
+
+https://kvymin.github.io/CatVod/0615.json
+
+
 # 导入存储库
 
 https://github.com/new/import
