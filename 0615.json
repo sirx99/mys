@@ -31,7 +31,7 @@
       "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/cokemv.json"
     },
     {
-      "key": "csp_xpath_libv",
+      "key": "csp_xpath_libvio",
       "name": "libvio(XPF)",
       "type": 3,
       "api": "csp_XPathFilter",
