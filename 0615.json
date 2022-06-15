@@ -28,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/cokemv.json"
+      "ext": "https://kvymin.github.io/CatVod/sub/xpath/cokemv.json"
     },
     {
       "key": "csp_xpath_libvio",
@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVodTVSpider/xpath/Auete.json"
+      "ext": "https://kvymin.github.io/CatVod/sub/xpath/Auete.json"
     },
    {
     "key": "csp_biubiu_特狗影视",
