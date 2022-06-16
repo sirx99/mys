@@ -11,8 +11,16 @@
       "filterable": "1",
       "ext": "http://iapp.nfuxs.club/nfuxs.php/v1.vod"
     },
-
-
+    {
+      "key": "开麦K歌搜人",
+      "name": "开麦K歌搜人",
+      "type": "3",
+      "api": "http://jb001.eu5.org/tmp/t/u/kmkg.php",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": ""
+    },
     {
       "key": "push_agent",
       "name": "推送（阿里）",
