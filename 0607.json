@@ -11,6 +11,8 @@
       "filterable": "1",
       "ext": "http://iapp.nfuxs.club/nfuxs.php/v1.vod"
     },
+
+
     {
       "key": "push_agent",
       "name": "推送（阿里）",
@@ -20,6 +22,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
+
     {
       "key": "(18+)环亚资源",
       "name": "(18+不错)环亚资源",
@@ -28,6 +31,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "开麦K歌搜人",
+      "name": "开麦K歌搜人",
+      "type": "1",
+      "api": "http://jb001.eu5.org/tmp/t/u/kmkg.php",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0",
+      "ext": ""
     },
     {
       "key": "(18+)速度资源",
