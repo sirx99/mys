@@ -254,6 +254,11 @@
                 }
             }
         },
+    {
+  "name": "云播K线",
+  "type": 1,
+  "url": "https://auete.com/api/?url=",
+   },
         {
             "name": "网络搜集05",
             "type": 1,
