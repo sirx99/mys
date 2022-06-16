@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/Xpath/cokemv.json"
+      "ext": "https://kvymin.github.io/CatVod/XPathFilter/cokemv.json"
     },
     {
       "key": "csp_xpath_libvio",
@@ -58,7 +58,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/Xpath/libvio.json"
+      "ext": "https://kvymin.github.io/CatVod/XPathFilter/libvio.json"
     },
     {
       "key": "csp_xpath_Auete",
@@ -68,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/Xpath/Auete.json"
+      "ext": "https://kvymin.github.io/CatVod/XPathFilter/Auete.json"
     },
     {
       "key": "789看片",
