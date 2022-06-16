@@ -234,6 +234,41 @@
       "type": 2,
       "url": "Sequence"
     },
+       {
+            "name": "解析01",
+            "type": 1,
+            "url": "https://vip.parwix.com:4433/player/?url="
+        },
+        {
+            "name": "解析02",
+            "type": 1,
+            "url": "https://vip.parwix.com:4433/player/?url="
+        },
+        {
+            "name": "解析03",
+            "type": 1,
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+        },
+        {
+            "name": "解析08",
+            "type": 1,
+            "url": "https://json.hfyrw.com/mao.go?url="
+        },
+        {
+            "name": "解析09",
+            "type": 1,
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+        },
+        {
+            "name": "解析21",
+            "type": 1,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "解析52",
+            "type": 1,
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+        }，
     {
       "name": "293",
       "type": 1,
