@@ -14,7 +14,7 @@
     {
       "key": "开麦K歌搜人",
       "name": "开麦K歌搜人",
-      "type": "3",
+      "type": "1",
       "api": "http://jb001.eu5.org/tmp/t/u/kmkg.php",
       "searchable": "1",
       "quickSearch": "1",
