@@ -20,36 +20,6 @@
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/ysgc.json"
     },
-    {
-      "key": "csp_xpath_cokemv",
-      "name": "Cokemv(XPF)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/sub/xpath/cokemv.json"
-    },
-    {
-      "key": "csp_xpath_libvio",
-      "name": "libvio(XPF)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/sub/xpath/libvio.json"
-    },
-    {
-      "key": "csp_xpath_Auete",
-      "name": "Auete(XPF)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/sub/xpath/Auete.json"
-    },
    {
     "key": "csp_biubiu_特狗影视",
     "name": "特狗影视(XB)",
@@ -71,6 +41,36 @@
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/lezhutv.json"
     },
     {
+      "key": "csp_xpath_cokemv",
+      "name": "Cokemv(XPF)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://kvymin.github.io/CatVod/xpath/cokemv.json"
+    },
+    {
+      "key": "csp_xpath_libvio",
+      "name": "libvio(XPF)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://kvymin.github.io/CatVod/xpath/libvio.json"
+    },
+    {
+      "key": "csp_xpath_Auete",
+      "name": "Auete(XPF)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://kvymin.github.io/CatVod/xpath/Auete.json"
+    },
+    {
       "key": "789看片",
       "name": "789看片(XP)",
       "type": 3,
@@ -78,7 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/sub/xpath/789ba.json"
+      "ext": "https://kvymin.github.io/CatVod/xpath/789ba.json"
     },
     {
       "key": "Gimy",
@@ -88,8 +88,48 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/sub/xpath/Gimy.json"
+      "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/Gimy.json"
     },
+   {
+  "key": "csp_xpath_ddg",
+  "name": "达达龟(XPF)",
+  "type": 3,
+  "api": "csp_XPathMacFilter",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/dadagui.json"
+   },
+    {
+  "key": "csp_xpath_Ole",
+  "name": "欧乐(XPF)(播放器要改成Exo)",
+  "type": 3,
+  "api": "csp_XPathMacFilter",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/olevod.json"
+   },
+    {
+      "key": "在线之家",
+      "name": "在线之家",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://kvymin.github.io/CatVod/xpath/zxzj.json"
+    }, 
+    {
+      "key": "动漫84",
+      "name": "动漫84(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://kvymin.github.io/CatVod/xpath/dm84.json"
+    }, 
     {
       "key": "Age动漫",
       "name": "Age动漫(XP)",
@@ -594,16 +634,6 @@
       "ext": {
         "flag": [
           "ltnb"
-        ]
-      }
-    },
-    {
-      "name": "xfyun云",
-      "type": 1,
-      "url": "https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=",
-      "ext": {
-        "flag": [
-          "xfyun"
         ]
       }
     },
@@ -1151,5 +1181,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://kvymin.github.io/CatVod/jar/custom_spider_0608.jar"
+  "spider":"https://kvymin.github.io/CatVod/jar/XBiubiuLA3.jar"
 }
