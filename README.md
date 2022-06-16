@@ -1,6 +1,6 @@
 # 猫影视TV 自建接口工程
 
-https://kvymin.github.io/CatVod/0607.json
+https://kvymin.github.io/CatVod/0606.json
 
 
 # 2022.06.11建新接口
