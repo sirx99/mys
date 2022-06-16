@@ -72,17 +72,17 @@
     },
     {
       "key": "789看片",
-      "name": "789看片(XP)",
+      "name": "789看片(XPF)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/Xpath/789ba.json"
+      "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/789ba.json"
     },
     {
       "key": "Gimy",
-      "name": "Gimy(XP)",
+      "name": "Gimy(XPF)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
