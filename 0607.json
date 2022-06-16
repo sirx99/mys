@@ -21,62 +21,6 @@
       "filterable": 0
     },
     {
-      "key": "芒果福利",
-      "name": "芒果福利",
-      "type": 0,
-      "api": "https: //www.mgav1.cc/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "鲨鱼福利",
-      "name": "鲨鱼福利",
-      "type": 0,
-      "api": "http: //sybyapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "佳丽福利",
-      "name": "佳丽福利",
-      "type": 0,
-      "api": "https: //jializyzapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "乐播福利",
-      "name": "乐播福利",
-      "type": 0,
-      "api": "https: //lbapi9.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "番号福利",
-      "name": "番号福利",
-      "type": 0,
-      "api": "http: //fhapiby.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "老鸭福利",
-      "name": "老鸭福利",
-      "type": 0,
-      "api": "https: //api.apilyzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "天堂福利",
-      "name": "天堂福利",
-      "type": 0,
-      "api": "http: //bttcj.com/inc/sapi.php",
-      "playUrl": "",
-      "categories": []
-    },
-    {
       "key": "(18+)环亚资源",
       "name": "(18+不错)环亚资源",
       "type": 0,
