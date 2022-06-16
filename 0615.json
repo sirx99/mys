@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/xpath/cokemv.json"
+      "ext": "https://kvymin.github.io/CatVod/Xpath/cokemv.json"
     },
     {
       "key": "csp_xpath_libvio",
@@ -58,7 +58,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/xpath/libvio.json"
+      "ext": "https://kvymin.github.io/CatVod/Xpath/libvio.json"
     },
     {
       "key": "csp_xpath_Auete",
@@ -68,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/xpath/Auete.json"
+      "ext": "https://kvymin.github.io/CatVod/Xpath/Auete.json"
     },
     {
       "key": "789看片",
@@ -78,7 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/xpath/789ba.json"
+      "ext": "https://kvymin.github.io/CatVod/Xpath/789ba.json"
     },
     {
       "key": "Gimy",
@@ -118,7 +118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/xpath/zxzj.json"
+      "ext": "https://kvymin.github.io/CatVod/Xpath/zxzj.json"
     }, 
     {
       "key": "动漫84",
@@ -128,7 +128,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/xpath/dm84.json"
+      "ext": "https://kvymin.github.io/CatVod/Xpath/dm84.json"
     }, 
     {
       "key": "Age动漫",
@@ -138,7 +138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kvymin.github.io/CatVod/sub/xpath/agefans.json"
+      "ext": "https://kvymin.github.io/CatVod/Xpath/agefans.json"
     }, 
     {
       "key": "push_agent",
