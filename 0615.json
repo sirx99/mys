@@ -39,6 +39,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/lezhutv.json"
+    },    
+    {
+     "key": "csp_xpath_bidiys",
+     "name": "嘀哩",
+     "type": 3,
+     "api": "csp_XPathFilter",
+    "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext": "https://kvymin.github.io/CatVod/XBiubiu/哔嘀影视.json"
     },
     {
       "key": "csp_xpath_cokemv",
