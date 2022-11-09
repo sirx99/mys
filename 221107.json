@@ -1,12 +1,12 @@
 {
 //Update:2022-11-07 14:46:51.368395
 
-"spider":"https://raw.githubusercontent.com/sirx99/mys/main/jar/XBiubiuLA4.jar", //"spider":"http://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+"spider":"https://raw.iqiq.io/sirx99/mys/main/jar/XBiubiuLA4.jar", //"spider":"http://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0N5cmlsMDU2My9sYW5qaW5nX2xpdmVAbWFpbi9UVmJveF9GcmVlL0xJVkUvRnJlZS90dmJveF9saXZlLnR4dA=="]}]}],
 
 "sites":[
-{"key":"软件","name":"📚软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
+{"key":"软件","name":"📚软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/Bili/软件教程.json"},
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_创艺影视", "name": "创艺影视", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json"},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
