@@ -8,7 +8,7 @@
 "sites":[
 {"key":"教程","name":"🏧教程〔合集〕","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/教程.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},
 {"key":"软件","name":"🅱️软件教程②","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExpVGVRX0J1M3J6RUtRYlJY.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/bili.jar"},
-{"key":"dr_抓饭体育","name":"抓饭体育(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/抓饭体育.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
+{"key":"dr_抓饭体育","name":"抓饭体育(drpy)","type":3,"api":"./xbpq/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./xbpq/抓饭体育.js","jar":"./vod"},
 {"key":"mtv_pc_小苹果源","name":"小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"cms-看视界","name":"📨看视界","type":4,"api":"http://cms.nokia.press/vod?rule=看视界","searchable":1,"quickSearch":1,"filterable":1},
