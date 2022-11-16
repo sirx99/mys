@@ -12,10 +12,13 @@
 "sites":[
 {"key":"douban2","name":"🅱豆瓣荐片┃神器妹推荐首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"js豆瓣","name":"🅱豆瓣热播┃dr首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
+{"key": "py_cctv_full","name": " 🐦央视大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./xbpq/py_cctv_full.py"},
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch":0,"filterable": 1,"ext":"./xbpq/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./xbpq/Biliych.json"},
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xbpq/alist.json"},
 	
+{"key":"dr_抓饭体育","name":"抓饭体育(drpy)","type":3,"api":"./xbpq/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./xbpq/抓饭体育.js","jar":"./vod"},
+{"key":"csp_xBPQ_zf","name":"🏀抓饭体育","type": 3,"api": "csp_xBPQ","searchable":0,"quickSearch": 0,"filterable": 0,"ext": "./xbpq/抓饭体育.json"},
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xbpq/nmys.json"},
 {"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -62,7 +65,6 @@
 {"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xbpq/310直播.json"},
 {"key":"csp_XPath3_88","name":"⚽88看球","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xbpq/88看球.json"},
 {"key":"csp_XPath_鹅直播","name":"🐧鹅鹅直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xbpq/企鹅直播.json"},
-{"key":"csp_xBPQ_zf","name":"🏀抓饭体育","type": 3,"api": "csp_xBPQ","searchable":0,"quickSearch": 0,"filterable": 0,"ext": "./xbpq/抓饭体育.json"},
 {"key":"csp_XYQBiu_酷奇","name":"🎤明星MTV","type": 3,"api": "XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./xbpq/酷奇MV.json"},
 {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙直播","type":3,"api":"XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xbpq/虎牙直播.json"},
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xbpq/斗鱼直播.json"},
