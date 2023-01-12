@@ -4,8 +4,8 @@
 // TVbox配置编辑器(写配置，转图片，加解密)        https://神器每日推送.tk/配置编辑器     
 
 {
-
-"spider":"./vod;md5;c4ba98711fac35daff17780d0817f5dc",
+"spider":"https://raw.iqiq.io/sirx99/gao/master/jar/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
+//"spider":"./vod;md5;c4ba98711fac35daff17780d0817f5dc",
 "wallpaper":"https://壁纸.神器每日推送.tk",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
 
