@@ -8,7 +8,7 @@
 "spider":"./vod;md5;c4ba98711fac35daff17780d0817f5dc",
 "wallpaper":"https://壁纸.神器每日推送.tk",
 
-"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
+"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9zaXJ4OTkvbXlzL21haW4vbGl2ZS90di50eHQ="]}]}],
 
 "sites":[
 {"key": "py_cctv_full","name": " 🐦央视大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./xbpq/py_cctv_full.py"},
