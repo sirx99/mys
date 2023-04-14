@@ -6,12 +6,12 @@
 var rule = {
     title:'抓饭体育',
     host:'https://www.justmi.cn/v2',
-    url:'https://www.justmi.cn/v2/category/fyclass',
+    url:'/category/fyclass',
     class_name:'全部&足球&篮球&羽乒&台球&棒球&户外&搏击&综合&棋盘&电竞&网球&排球&聊天&原声',
     class_url:'all&Football&Basketball&Badminton&Billiards&Baseball&Outdoors&Wrestling&Others&Boardgame&Popular&Tennis&Volleyball&Chat&Acoustic',
-	homeUrl:'https://www.justmi.cn/v2/category/all',//网站的首页链接,用于分类获取和推荐获取
-    detailUrl:'https://www.justmi.cn/v2/live/fyid',//二级详情拼接链接(json格式用)
-    searchUrl:'https://www.justmi.cn/v2/search?keyword=**&page=fypage&num=&searchType=all&uid=null&from=pc',
+	homeUrl:'/category/all',//网站的首页链接,用于分类获取和推荐获取
+    detailUrl:'/live/fyid',//二级详情拼接链接(json格式用)
+    searchUrl:'/search?keyword=**&page=fypage&num=&searchType=all&uid=null&from=pc',
     searchable:2,
     quickSearch:0,
     headers:{ 
